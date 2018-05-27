@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://ryanmhoffman.github.io/RMHTruckingSmall/"
 languageCode = "en-us"
 title = "RMH Trucking"
 theme = "hugo-agency-theme"
